@@ -177,8 +177,10 @@ var Setting =
         },
         {
             "YT_ID": "g7OJ_qkC3lk",
-            "Title": "▶數學工具",
-            "Text": "111下搭配新綱4年級全新製作角度與形狀、複合體積，幾何教學好簡單。",
+            // "Title": "▶數學工具",
+            "Title": "▶GGB", // 3.2修改
+            // "Text": "111下搭配新綱4年級全新製作角度與形狀、複合體積，幾何教學好簡單。",
+            "Text": "搭配新綱4年級全新製作複合體積，幾何教學好簡單。", // 3.2修改
             "TabImg": "img/bookmark012.png",
             "TabImg_Active": "img/bookmark022.png",
             "TabType": "數學",
@@ -186,7 +188,8 @@ var Setting =
         },
 
         {
-            "YT_ID": "LChTHm7jkCc",
+            // "YT_ID": "LChTHm7jkCc",
+            "YT_ID": "OvqS5wPqILk",// 3.2修改
             "Title": "▶寫作動畫",
             "Text": "寫作如何讀懂題目、挑選素材、展開聯想？透過動畫有效加強寫作力！",
             "TabImg": "img/bookmark011.png",
@@ -195,7 +198,8 @@ var Setting =
             "Type": "高年級"
         },
         {
-            "YT_ID": "Ub8RUpmCVS4",
+            // "YT_ID": "Ub8RUpmCVS4",
+            "YT_ID": "ohsUUoWN-Rs", // 3.2修改
             "Title": "▶語文天地動畫",
             "Text": "必學語文常識、閱讀策略、寫作技巧通通有，影音學習加深印象！",
             "TabImg": "img/bookmark011.png",
@@ -251,7 +255,8 @@ var Setting =
         },
         {
             "YT_ID": "wSKiGsaK0eg",
-            "Title": "▶數學工具",
+            // "Title": "▶數學工具",
+            "Title": "▶GGB", // 3.2修改
             "Text": "搭配新綱5年級全新製作正方體和長方體的展開圖，3D翻轉創造空間概念！",
             "TabImg": "img/bookmark012.png",
             "TabImg_Active": "img/bookmark022.png",
@@ -296,18 +301,20 @@ var Setting =
             "Type": "自然"
         },
         {
-            "YT_ID": "iO7Ek_dT3xQ",
+            // "YT_ID": "iO7Ek_dT3xQ",
+            "YT_ID": "M3EAoznoMk8", // 3.2修改
             "Title": "▶科普素養動畫",
-            "Text": "不用電就能做冰棒！？用好懂的動畫闡述生活中的科學現象",
+            "Text": "精準的導航與天氣預報是怎麼做到的呢？以動畫認識人類偉大的發明-人造衛星！",
             "TabImg": null,
             "TabImg_Active": null,
             "TabType": null,
             "Type": "自然"
         },
         {
-            "YT_ID": "hQ4gzOFA7A0",
+            // "YT_ID": "hQ4gzOFA7A0",
+            "YT_ID": "b883ndWyZ9Q", // 3.2修改
             "Title": "▶互動",
-            "Text": "模擬實驗無限次！結合提問與實際操作，促進學生的思考力與反應力",
+            "Text": "不同季節的太陽怎麼移動？用互動輕鬆地認識太陽軌跡如何運行！",
             "TabImg": null,
             "TabImg_Active": null,
             "TabType": null,
@@ -315,7 +322,8 @@ var Setting =
         },
 
         {
-            "YT_ID": "xpfQk0LOPek",
+            // "YT_ID": "xpfQk0LOPek",
+            "YT_ID": "n8Sa5_Bi1z8", // 3.2修改
             "Title": "▶3年級獨有：品格動畫",
             "Text": "用生活大小事配合課本內容製作，輕鬆培養學生的品德涵養！",
             "TabImg": null,
@@ -324,7 +332,8 @@ var Setting =
             "Type": "社會"
         },
         {
-            "YT_ID": "YK-R0YbHvU4",
+            // "YT_ID": "YK-R0YbHvU4",
+            "YT_ID": "E9nqYPSuIH0", // 3.2修改
             "Title": "▶課程引導動畫",
             "Text": "讓課本動起來！生動動畫引起學習動機，輕鬆抓住學習重點",
             "TabImg": null,
@@ -333,7 +342,8 @@ var Setting =
             "Type": "社會"
         },
         {
-            "YT_ID": "9b4Etuxcd30",
+            // "YT_ID": "9b4Etuxcd30",
+            "YT_ID": "hyo0CzWgG5Y", // 3.2修改
             "Title": "▶知識點動畫",
             "Text": "以動畫加深加廣說明課本知識點，學習最有力！",
             "TabImg": null,
@@ -343,6 +353,7 @@ var Setting =
         },
         {
             "YT_ID": "2yiPvx7o2fY",
+            "YT_ID_2": "VU5dGY9o47E", // 3.2新增
             "Title": "▶互動",
             "Text": "為課本知識點量身打造，搭配各式情境落實課程所學！",
             "TabImg": null,
@@ -351,7 +362,8 @@ var Setting =
             "Type": "社會"
         },
         {
-            "YT_ID": "nclfq0iLP8o",
+            // "YT_ID": "nclfq0iLP8o",
+            "YT_ID": "k2YAiBibLGo", // 3.2修改
             "Title": "▶概念歸納動畫",
             "Text": "課文重點搭配豐富、易懂示意圖，快速複習單元的學習重點",
             "TabImg": null,
@@ -421,6 +433,8 @@ jQuery(document).ready(function ($) {
             }
             console.log(Setting[i]);
             var TYID = Setting[i].YT_ID;
+            var TYID_2 = Setting[i].YT_ID_2; // 3.2新增
+
             Add += '<div class="RowContent" type="' + Setting[i].TabType + '">'
             Add += '<div class="row">'
             Add += '  <div class="col-lg-12 divTitle">'
@@ -439,6 +453,20 @@ jQuery(document).ready(function ($) {
             Add += '            </div>'
             Add += '        </div>'
             Add += '    </div>'
+            
+            if (TYID_2) { // 3.2新增
+                
+                Add += '    <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
+                Add += '        <div class="carousel-inner">'
+                Add += '            <div class="carousel-item ratio  ratio-16x9 active">';
+                Add += '                <iframe src="https://www.youtube.com/embed/' + TYID_2 + '?enablejsapi=1"';
+                Add += '                    srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom=0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>';
+                Add += '                    <a href=https://www.youtube.com/embed/' + TYID_2 + '?autoplay=1 target=\'_blank\' ><img src=https://img.youtube.com/vi/' + TYID_2 + '/hqdefault.jpg ><span>▶</span></a>"';
+                Add += '                    id="' + TYID_2 + '" title="YouTube video player" frameborder="0" allowfullscreen></iframe>';
+                Add += '            </div>';
+                Add += '        </div>'
+                Add += '    </div>'
+            }
 
             Add += '    <div class="col-xl-6  col-lg-12 col-md-12 col-12 divText">'
             Add += Setting[i].Text
