@@ -163,10 +163,11 @@ var Setting =
             "Type": "高年級"
         },
         {
-            "YT_ID": "yqqtt3pTNgI",
+            // "YT_ID": "yqqtt3pTNgI",
+            "YT_ID": "xhTbP8UxfhY",
             "Title": "▶Wordwall",
             "Text": "依各單元知識點設計遊戲內容，提供多樣化、富有樂趣的線上測驗",
-            "TitleImg":"img/resource/3電子書特色功能/3高年級/數學/wordwall.png",
+            "TitleImg":"img/resource/3電子書特色功能/3高年級/數學/wordwall.jpg",
             "TabImg": "img/bookmark012.png",
             "TabImg_Active": "img/bookmark022.png",
             "TabType": "數學",
@@ -215,7 +216,8 @@ var Setting =
         },
 
         {
-            "YT_ID": "OeJ8gh7wPTs",
+            // "YT_ID": "OeJ8gh7wPTs",
+            "YT_ID": "dthy1cSJ04c",
             "Title": "▶小百科",
             "Text": "獨家圖文整合讓教學融會貫通，輕鬆拓寬課外知識深度",
             "TitleImg":"img/resource/3電子書特色功能/5社會/社會小百科.png",
@@ -225,30 +227,42 @@ var Setting =
             "Type": "社會"
         },
         {
-            "YT_ID": "sfERj7oUOB4",
+            // "YT_ID": "sfERj7oUOB4",
+            "YT_ID": "Rpswb5tEGw8",
             "Title": "▶動畫Q&A",
             "Text": "動畫內搭提問設計，抓住學習重點，課程引導、課堂提問一次滿足",
-            "TitleImg":"img/resource/3電子書特色功能/5社會/社會問答Q_A_2.png",
+            "TitleImg":"img/resource/3電子書特色功能/5社會/社會問答Q&A.png",
             "TabImg": null,
             "TabImg_Active": null,
             "TabType": null,
             "Type": "社會"
         },
+        // {
+        //     "YT_ID": "CiuwbKA1hl0",
+        //     "Title": "▶補充網站",
+        //     "Text": "豐富網站資源南一幫老師都準備好，一鍵點擊輕鬆補充、備課",
+        //     "TitleImg":"img/resource/3電子書特色功能/5社會/社會補充網站.png",
+        //     "TabImg": null,
+        //     "TabImg_Active": null,
+        //     "TabType": null,
+        //     "Type": "社會"
+        // },
         {
-            "YT_ID": "CiuwbKA1hl0",
-            "Title": "▶補充網站",
-            "Text": "豐富網站資源南一幫老師都準備好，一鍵點擊輕鬆補充、備課",
-            "TitleImg":"img/resource/3電子書特色功能/5社會/社會補充網站.png",
-            "TabImg": null,
-            "TabImg_Active": null,
-            "TabType": null,
-            "Type": "社會"
-        },
-        {
-            "YT_ID": "xb115FHaVeQ",
+            // "YT_ID": "xb115FHaVeQ",
+            "YT_ID": "mcD33pI5P0g",
             "Title": "▶Wordwall",
             "Text": "依各單元知識點客製化遊戲內容，提供多樣化、富有樂趣的線上測驗",
             "TitleImg":"img/resource/3電子書特色功能/5社會/社會wordwall.png",
+            "TabImg": null,
+            "TabImg_Active": null,
+            "TabType": null,
+            "Type": "社會"
+        },
+        {
+            "YT_ID": "hZoRHEgArzg",
+            "Title": "精選補充影片",
+            "Text": "精選Youtube影片，客製化知識點分段，重點輕鬆看，備課無負擔",
+            // "TitleImg":"img/resource/3電子書特色功能/5社會/社會wordwall.png",
             "TabImg": null,
             "TabImg_Active": null,
             "TabType": null,
@@ -295,7 +309,10 @@ jQuery(document).ready(function ($) {
             Add += '<div class="carousel-item  active">'
             Add += '    <div class="row justify-content-center">'
                   
-            Add += '        <img class="col-xl-6  col-lg-12 col-md-12 col-12 divYT" src="'+ Setting[i].TitleImg +'">'
+            if (Setting[i].TitleImg) {
+                Add += '        <img class="col-xl-6 col-lg-12 col-md-12 col-12 divYT" src="' + Setting[i].TitleImg + '">';
+            }
+            // Add += '        <img class="col-xl-6  col-lg-12 col-md-12 col-12 divYT" src="'+ Setting[i].TitleImg +'">'
                 
 
             Add += '       <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
