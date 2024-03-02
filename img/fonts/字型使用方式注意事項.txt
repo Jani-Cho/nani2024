@@ -1,0 +1,9 @@
+●字型來源（Google Fonts免費字型）：
+https://fonts.google.com/noto/specimen/Noto+Sans+TC?subset=chinese-traditional&noto.script=Hant
+
+●使用方式：全網頁皆使用此字型 NotoSansTC-Bold.otf（中文、英文、數字）
+
+●注意：已有下載整包字型 Noto_Sans_TC 可直接使用
+
+
+

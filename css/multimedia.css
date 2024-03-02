@@ -1,0 +1,38 @@
+
+
+.divText{
+    font-size: 2.1vw;
+    font-size: 32px;
+    font-size: 3.2vmin;
+    color: #405294;
+    font-weight: bold;
+    margin-left: 0.7vw;
+    margin-bottom: 15px;
+}
+.divTitle{
+    font-family: "NotoSansTC_Black";
+    font-size: 2.5vw;
+    font-size: 34px;
+    font-size: 4vmin;
+    color: #405294;
+    margin-left: 0.7vw;
+    margin-bottom: 15px;
+}
+.Line{
+    margin-bottom: 3rem;height: 3px;background-color: #c4c4c4;
+}
+.divYT{
+    margin-bottom: 3rem;   
+    max-width: 624px;
+}
+.divYT >img{
+    max-width: 600px;
+}
+.ImgTabs >img{
+    max-width: 338px;
+    cursor: pointer;
+}
+.RowContent{
+    display: none;
+
+}

@@ -1,0 +1,60 @@
+@font-face {
+	font-family: 'NotoSansTC';
+	src: url('../img/fonts/Noto_Sans_TC/NotoSansTC-Regular.otf'),
+	     url('../img/fonts/Noto_Sans_TC/NotoSansTC-Bold.otf'),
+		 url('../img/fonts/Noto_Sans_TC/NotoSansTC-Light.otf'),
+
+		 url('../img/fonts/Noto_Sans_TC/NotoSansTC-Medium.otf'),
+		 url('../img/fonts/Noto_Sans_TC/NotoSansTC-Thin.otf');
+	font-family: "NotoSansTC_Black";
+	src:url('../img/fonts/Noto_Sans_TC/NotoSansTC-Black.otf');
+  }
+  body{
+	font-family:'NotoSansTC_Black';
+    
+}
+
+.iframeContent{
+    overflow-x: hidden;
+}
+.container{
+	height: 100vh;
+	/*border: 0px transparent solid !important;
+    padding: 0 !important;*/
+	/*background-image: url(../img/BG.png);*/
+	/*background-image: url(../img/BG.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;*/
+    
+	/*background-color: #FAFAFA;*/
+    max-width: 1350px;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+.Title{
+    font-size: 98px;
+    font-size: 7vw;
+    font-weight: bold;
+    color: #405294;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-bottom: 50px;
+}
+.Title >span{
+    margin-left: 2vmin;
+    margin-right: 2vmin;
+    margin-bottom: -1.5vw;
+}
+.Title > img{
+    /*width: 68px;*/
+    height: 2vh;
+    height:2vmin
+}
+.divContent{
+    margin-left: 0;
+    margin-right: 0;
+    z-index: 2;
+    position: relative;
+}

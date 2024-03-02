@@ -1,0 +1,67 @@
+
+
+.divText{
+    font-size: 2.1vw;
+    font-size: 32px;
+    font-size: 3.2vmin;
+    color: #405294;
+    font-weight: bold;
+    margin-left: 0.7vw;
+    margin-bottom: 15px;
+}
+.divTitle{
+    font-family: "NotoSansTC_Black";
+    font-size: 2.5vw;
+    font-size: 34px;
+    font-size: 4vmin;
+    color: #405294;
+    margin-left: 0.7vw;
+    margin-bottom: 15px;
+}
+
+.Line{
+    margin-bottom: 3rem;height: 3px;background-color: #c4c4c4;
+}
+.divYT{
+    margin-bottom: 3rem;   
+    max-width: 624px;
+}
+.divYT >img{
+    max-width: 600px;
+}
+.ImgTabs >img{
+    max-width: 338px;
+    cursor: pointer;
+}
+.RowContent{
+    /*display: none;*/
+
+}
+
+.card-header{
+	background-color: #ffdfa6;
+    border-bottom: 0px solid transparent;
+	padding: 0.5rem 1rem;
+	padding:0;
+    font-size: 30px;
+    height: 70px;
+    line-height: 70px;
+    margin-bottom: 20px
+}
+
+.Foldbtn > img{
+    height: 5vmin;
+    max-height: 36px;
+    margin-top: -1vmin;
+}
+
+.btn-check:focus+.btn, .btn:focus {
+    outline: 0;
+    box-shadow: 	0 0 0 0rem transparent !important;
+}
+.FoldTexts{
+    font-size: 2.5vw;
+    font-size: 28px;
+    font-size: 4vmin;
+    color: #405294;
+}

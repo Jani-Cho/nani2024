@@ -1,0 +1,143 @@
+#sidebar {
+    min-width: 380px;
+    max-width: 380px;
+	background-image: linear-gradient(to top, #fab975, #f6d365);
+    /*background: #f7d267;*/
+    color: #fff;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+	border-bottom-right-radius: 30px;
+    border-right: 5px white solid;
+    box-shadow: 8px 3px 10px #c1c1c1;
+    z-index: 99;
+    overflow-y: overlay;
+}
+.CloseMenu{
+    top: 17px;
+    /* margin-top: -100px; */
+    display: none;
+    position: absolute;
+    left: 334px;
+}
+.MenuBtn{
+	width: 43px;
+	height: 43px;
+	position: absolute;
+    left: 2%;
+    top: 1%;
+	display: none;
+}
+.OpenMenu{
+    left: 0px !important;
+}
+@media screen and (max-width: 991.98px){
+	#sidebar {
+		/*margin-left: -380px;*/
+		position: absolute;
+		height: 100%;
+		left: -390px;
+	}
+    .CloseMenu{
+		display: block;
+	}
+	.MenuBtn{
+		display: block;
+	}
+}
+::-webkit-scrollbar {
+    width: 0px;
+}
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: none;
+}
+::-webkit-scrollbar-thumb {
+    background: white;
+    -webkit-box-shadow: none;
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+    background: none;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0 0;
+}
+.card-body > .row{
+	background-color: #ff9c00;
+}
+
+.card{
+    border: 0px solid transparent;
+     border-radius: 0.25rem;
+	 background-color: transparent;
+}
+.card-header{
+	background-color: transparent;
+    border-bottom: 0px solid transparent;
+	padding: 0.5rem 1rem;
+	padding:0;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.card-header >span{
+	font-size: 30px;
+    font-weight: bold;
+	color:  #405294;
+	letter-spacing: 3px;
+    font-weight: bold;
+
+}
+.list-group-item {
+	background-color:  #ff9c00;
+    border: 0px transparent solid;
+}
+.list-group-item >span{
+    color: #FFFFFF;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 68px;
+}
+.list-group-item-action:focus, .list-group-item-action:hover {
+    z-index: 1;
+    color: #405294;
+    text-decoration: none;
+    background-color: #8cdaff;
+
+}
+.list-group-item-action:focus > span, .list-group-item-action:hover > span {
+    color: #405294;
+}
+.StopMenu{
+    cursor: not-allowed;
+    pointer-events:none;
+}
+.StopMenu > span{
+   color: #c4c4c4;
+   pointer-events:none;
+}
+.StopMenu:focus, .StopMenu:hover {
+    z-index: 1;
+    color: #c4c4c4;
+    text-decoration: none;
+	background-color:  #ff9c00;
+
+}
+.StopMenu:focus > span, .StopMenu:hover > span {
+    color: #c4c4c4;
+}
+
+.MenuItemActive{
+	background-color: #FFFFFF;
+}
+.MenuItemActive > span{
+    font-family:'NotoSansTC_Black';
+}
+.ShowItem{
+    z-index: 1;
+    color: #405294;
+    text-decoration: none;
+    background-color: #8cdaff;
+}

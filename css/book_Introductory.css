@@ -1,0 +1,60 @@
+.Introductory{
+    width: 591px;
+    height: 790px;
+    border: 10px #36B1EC solid;
+    border-radius: 25px;
+    box-shadow: 8px 8px 20px #c1c1c1;
+    display: flex;
+    overflow: hidden;
+}
+.Introductory_div{
+    width: 591px;
+    height: 835px;
+    padding: 0;
+}
+
+.Introductory_div > img{
+    margin-top: -25px;
+    margin-left: 170px;
+}
+
+
+
+
+    .ebook_div{
+        width: 366px;
+        height: 536px;
+    
+        /*margin-right: 55px;*/
+    
+    }
+    
+    .ebook_div > img{
+        margin-top: -25px;
+        margin-left: 68px;
+    }
+    .ebook{
+        width: 366px;
+        height: 487px;
+        border: 8px #FE6263 solid;
+    
+        border: 8px #36B1EC solid;
+    
+        border-radius: 20px;
+        box-shadow: 8px 8px 20px #c1c1c1;
+        display: flex;
+        overflow: hidden;
+    }
+    .ebook > img{
+        width: 350px;
+        height: 471px;
+        /*height: 573px;*/
+    }
+    .divContent >a{
+        width: 366px;
+        height: 536px;
+        padding: 0;
+        margin-bottom: 3rem;
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
