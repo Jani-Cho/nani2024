@@ -151,7 +151,7 @@ jQuery(document).ready(function ($) {
 			case "NaniBook":
 				htm = "onebook.html"
 				break;	
-			case "OneBox2":
+			case "NaniBox3":
 				htm = "OneBox2.html"
 				break;	
 			case "CloundTest":
