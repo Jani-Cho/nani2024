@@ -1,47 +1,48 @@
 var Setting =
     [
-        {
-            "Title": "【NEW】派測驗功能全新登場",
-            "Items":
-            [
-                {
-                    "YT_ID": "B-d_KRg4J6s",
-                    "Title":"▶必知優點1：自動出卷",
-                    "Text": "內建電子書各章節內，自動出卷。不用切換視窗，隨點即派超級快。",
-                    "TitleImg":"img/resource/5OneBook/1.png",
-                },
-                {
-                    "YT_ID": "etXuNKX6r5k",
-                    "Title":"▶必知優點2：三種程度",
-                    "Text": "獨家提供三種程度考卷，速測也可以差異化評量。",
-                    "TitleImg":"img/resource/5OneBook/2.png",
-                },
-                {
-                    "YT_ID": "ew-JHiy_Gx0",
-                    "Title":"▶必知優點3：測驗分析",
-                    "Text": "測驗後有詳盡班級測驗分析立刻掌握班級學習成果。",
-                    "TitleImg":"img/resource/5OneBook/3.png",
-                },
-                {
-                    "YT_ID": "kK0YnBPXOtE",
-                    "Title":"▶【立即派】免建班快速派題",
-                    "Text": "免建班與匯入資料，學生使用行動載具，直接掃描QRCode快速進行評量。",
-                    "TitleImg":"img/resource/5OneBook/4.png",
-                },
-                {
-                    "YT_ID": "2H_2h8WZH3w",
-                    "Title":"▶【OneLink派】快速派測驗給指定班級",
-                    "Text": "結合南一OneLink，自動導入老師已建置之班級，可輕鬆派發測驗。教師可擁有完整的試卷與成績管理。",
-                    "TitleImg":"img/resource/5OneBook/5.png",
-                }
-            ]
-        },
+        // { //3.2移除
+        //     "Title": "【NEW】派測驗功能全新登場",
+        //     "Items":
+        //     [
+        //         {
+        //             "YT_ID": "B-d_KRg4J6s",
+        //             "Title":"▶必知優點1：自動出卷",
+        //             "Text": "內建電子書各章節內，自動出卷。不用切換視窗，隨點即派超級快。",
+        //             "TitleImg":"img/resource/5OneBook/1.png",
+        //         },
+        //         {
+        //             "YT_ID": "etXuNKX6r5k",
+        //             "Title":"▶必知優點2：三種程度",
+        //             "Text": "獨家提供三種程度考卷，速測也可以差異化評量。",
+        //             "TitleImg":"img/resource/5OneBook/2.png",
+        //         },
+        //         {
+        //             "YT_ID": "ew-JHiy_Gx0",
+        //             "Title":"▶必知優點3：測驗分析",
+        //             "Text": "測驗後有詳盡班級測驗分析立刻掌握班級學習成果。",
+        //             "TitleImg":"img/resource/5OneBook/3.png",
+        //         },
+        //         {
+        //             "YT_ID": "kK0YnBPXOtE",
+        //             "Title":"▶【立即派】免建班快速派題",
+        //             "Text": "免建班與匯入資料，學生使用行動載具，直接掃描QRCode快速進行評量。",
+        //             "TitleImg":"img/resource/5OneBook/4.png",
+        //         },
+        //         {
+        //             "YT_ID": "2H_2h8WZH3w",
+        //             "Title":"▶【OneLink派】快速派測驗給指定班級",
+        //             "Text": "結合南一OneLink，自動導入老師已建置之班級，可輕鬆派發測驗。教師可擁有完整的試卷與成績管理。",
+        //             "TitleImg":"img/resource/5OneBook/5.png",
+        //         }
+        //     ]
+        // },
         {
             "Title": "【NEW】業界最強班級紀錄功能",
             "Items":
             [
                 {
-                    "YT_ID": "HFqJG7WK3J4",
+                    // "YT_ID": "HFqJG7WK3J4",
+                    "YT_ID": "Wpg1q-8yTuo", //3.2修改
                     "Title":"▶一個帳號、記錄同步",
                     "Text": "班級紀錄自動存，同步顯示在其他裝置，不用另存、上傳雲端，備課最方便！",
                     "TitleImg":"img/resource/5OneBook/6.png",
@@ -49,46 +50,109 @@ var Setting =
 
             ]
         },
-        {
-            "Title": "【NEW】老師！我們把電子書變大了！",
-            "Items":
-            [
-                {
-                    "YT_ID": "vvP-ME6m7Lk",
-                    "Title":"▶電子書放大功能 倍率變更大了",
-                    "Text": "頁面可放大16倍，業界最大！生字教學超清楚，不怕後排孩子看不到。",
-                    "TitleImg":"img/resource/5OneBook/7.png",
-                }
+        // {//3.2移除
+        //     "Title": "【NEW】老師！我們把電子書變大了！",
+        //     "Items":
+        //     [
+        //         {
+        //             "YT_ID": "vvP-ME6m7Lk",
+        //             "Title":"▶電子書放大功能 倍率變更大了",
+        //             "Text": "頁面可放大16倍，業界最大！生字教學超清楚，不怕後排孩子看不到。",
+        //             "TitleImg":"img/resource/5OneBook/7.png",
+        //         }
 
-            ]
-        },
-        {
-            "Title": "【NEW】OneBook APP 功能優化 ",
-            "Items":
-            [
-                {
-                    "YT_ID": "OgtGHcdKK50",
-                    "Title":"▶新升級1：分段下載",
-                    "Text": "各科皆可分章/分課下載，減少下載容量，釋放更多記憶體。",
-                    "TitleImg":"img/resource/5OneBook/8.png",
-                },
-                {
-                    "YT_ID": "4Tg8blPjMjg",
-                    "Title":"▶新升級2：自動更新提醒",
-                    "Text": "點擊書本後，自動貼心提醒內容更新！",
-                    "TitleImg":"img/resource/5OneBook/10.png",
-                }
-            ]
-        },
+        //     ]
+        // },
+        // { //3.2移除
+        //     "Title": "【NEW】OneBook APP 功能優化 ",
+        //     "Items":
+        //     [
+        //         {
+        //             "YT_ID": "OgtGHcdKK50",
+        //             "Title":"▶新升級1：分段下載",
+        //             "Text": "各科皆可分章/分課下載，減少下載容量，釋放更多記憶體。",
+        //             "TitleImg":"img/resource/5OneBook/8.png",
+        //         },
+        //         {
+        //             "YT_ID": "4Tg8blPjMjg",
+        //             "Title":"▶新升級2：自動更新提醒",
+        //             "Text": "點擊書本後，自動貼心提醒內容更新！",
+        //             "TitleImg":"img/resource/5OneBook/10.png",
+        //         }
+        //     ]
+        // },
         {
             "Title": "【NEW】真人智能客服 隆重登場",
             "Items":
             [
                 {
-                    "YT_ID": "PvyoNDgsCUU",
+                    // "YT_ID": "PvyoNDgsCUU",
+                    "YT_ID": "PgfjFnuuMjw", //3.2修改
                     "Title":"▶真人智能客服即時回應產品問題",
                     "Text": "一對一真人回應，貼心服務0距離。傾聽使用者回饋，精準導入產品開發",
                     "TitleImg":"img/resource/5OneBook/11.png",
+                }
+
+            ]
+        },
+        { // 3.2新增
+            "Title": "【NEW】獨家NaniBook課堂互動",
+            "Items":
+            [
+                {
+                    "YT_ID": "",
+                    "Title":"必知優點1：課堂快問快答",
+                    "Text": "電子書快速出題，輕鬆派發自訂試題給全班。",
+                    "TitleImg":"img/resource/5OneBook/答題工具1.png",
+                    "TitleImg2":"img/resource/5OneBook/答題工具2.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"必知優點2：分組答題",
+                    "Text": "支援分組回答、答題狀況即時統機。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook3.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook5.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"必知優點3：分組觀摩",
+                    "Text": "共享學習成果，提供學生互相觀摩學習的機會。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook6.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook7.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"必知優點4：派發筆記",
+                    "Text": "提供學生筆紀、學習單，輕鬆進行課堂演練與複習。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook11.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook12.png",
+                }
+
+            ]
+        },
+        { // 3.2新增
+            "Title": "【改版】電子書畫筆功能貼心升級",
+            "Items":
+            [
+                {
+                    "YT_ID": "mWPDXm8U68M",
+                    "Title":"優化畫筆操作，16色新登場",
+                    "Text": "點一下畫筆即可進行書寫，再點一下呼叫畫筆面板。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook8.png",
+                }
+
+            ]
+        },
+        { // 3.2新增
+            "Title": "【改版】輕鬆返回前筆動作",
+            "Items":
+            [
+                {
+                    "YT_ID": "",
+                    "Title":"新增雙按鍵:回復、取消回復",
+                    "Text": "一秒救回上一筆動作，包含畫記、便利貼、圖片皆可一鍵復原。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook9.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook10.png",
                 }
 
             ]
@@ -166,8 +230,10 @@ jQuery(document).ready(function ($) {
                 Add += '    <div class="row justify-content-center">'
                       
                 Add += '        <img class="col-xl-6  col-lg-12 col-md-12 col-12 divYT" src="'+ Setting[i].Items[j].TitleImg +'">'
-                    
-    
+                if (Setting[i].Items[j].TitleImg2) {
+                Add += '        <img class="col-xl-6  col-lg-12 col-md-12 col-12 divYT" src="'+ Setting[i].Items[j].TitleImg2 +'">'
+                }
+                if (TYID) {
                 Add += '       <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
     
                 Add += '               <div class="carousel-inner">'
@@ -182,8 +248,8 @@ jQuery(document).ready(function ($) {
                 Add += '                </div>'
     
                 Add += '            </div>'
+            }
                 Add += '        </div>'
-    
                 Add += '        <div class="col-xl-12 col-lg-12 col-md-12 col-12 Line">'
                 Add += '    </div>'
                 Add += '</div>'

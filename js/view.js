@@ -148,7 +148,7 @@ jQuery(document).ready(function ($) {
 			case "電子書體驗版":
 				htm = "ebook_trial.html"
 				break;	
-			case "OneBook":
+			case "NaniBook":
 				htm = "onebook.html"
 				break;	
 			case "OneBox2":
@@ -181,7 +181,7 @@ jQuery(document).ready(function ($) {
 			case "綜合健體":
 				Hindex = 6;
 				break;	
-			case "OneBook":
+			case "NaniBook":
 				Hindex = 7;
 				break;	
 			default:
