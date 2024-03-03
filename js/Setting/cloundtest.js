@@ -19,11 +19,41 @@ var Setting =
             ]
         },
         {
-            "Title": "速測自訂公布成績時間",
+            "Title": "【改版】介面全新改版",
             "Items":
             [
                 {
-                    "YT_ID": "C86IVy_T7ss",
+                    "YT_ID": "wDLpCjJ7azI",
+                    "Title":"▶必知優點1:優化出卷網站視覺",
+                    "Text": "全面調整畫面配色，提升使用者閱讀舒適度。",
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper2.png"
+                },
+                {
+                    "YT_ID": "v0ieg-us-fE",
+                    "Title":"▶必知優點2:首頁分流",
+                    "Text": "入口即可選擇您要組新試卷或查找歷史試卷資料。",
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper1.png"
+                },
+                {
+                    "YT_ID": "v0ieg-us-fE",
+                    "Title":"▶必知優點3:題目完整預覽",
+                    "Text": "調整試題預覽形式，圖文並茂讓老師易於檢視試卷。",
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper3.png"
+                },
+                {
+                    "YT_ID": "v0ieg-us-fE",
+                    "Title":"▶必知優點4:按鈕立體化",
+                    "Text": "網站按鈕貼心進化，各載具閱讀皆清晰。",
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper4.png"
+                }
+            ]
+        },
+        { //3.2新增
+            "Title": "【特色】速測自訂公布成績時間",
+            "Items":
+            [
+                {
+                    "YT_ID": "",
                     "Title":"▶老師可自行選擇公布成績與答案時機",
                     "Text": "成績在學生測驗完畢後公布，還是老師統一公布呢？您都可以自由設定！",
                     "TitleImg":"img/resource/7南一雲端出題/3.png"
@@ -31,40 +61,40 @@ var Setting =
             ]
         }
         ,
-        {
-            "Title": "速測一鍵輸出班級成績",
-            "Items":
-            [
-                {
-                    "YT_ID": "tRdBzhrQjBE",
-                    "Title":"▶不用另外登記成績，最便利！",
-                    "Text": "成績報表內含成績、作答／交卷時間／作答時長，讓老師掌握學生作答狀況",
-                    "TitleImg":"img/resource/7南一雲端出題/4.png"
-                }
-            ]
-        }
+        // { //3.2移除
+        //     "Title": "速測一鍵輸出班級成績",
+        //     "Items":
+        //     [
+        //         {
+        //             "YT_ID": "tRdBzhrQjBE",
+        //             "Title":"▶不用另外登記成績，最便利！",
+        //             "Text": "成績報表內含成績、作答／交卷時間／作答時長，讓老師掌握學生作答狀況",
+        //             "TitleImg":"img/resource/7南一雲端出題/4.png"
+        //         }
+        //     ]
+        // }
         ,
-        {
-            "Title": "速測做答畫記功能 ",
+        {//3.2修改
+            "Title": "【特色】速測作答畫記功能 ",
             "Items":
             [
                 {
-                    "YT_ID": "h3oujt-u1QI",
+                    "YT_ID": "",
                     "Title":"▶學生作答最佳輔助，計算題好幫手",
-                    "Text": "交卷後學生和老師皆可回查，方便老師了解學生作答過程",
+                    "Text": "交卷後學生和老師皆可回查，方便老師了解學生作答過程。",
                     "TitleImg":"img/resource/7南一雲端出題/5.png"
                 }
             ]
         }
         ,
-        {
-            "Title": "速測提供強大班級測驗分析",
+        {//3.2修改
+            "Title": "【特色】速測提供強大班級測驗分析",
             "Items":
             [
                 {
-                    "YT_ID": "oEwwDY8WXCw",
+                    "YT_ID": "",
                     "Title":"▶整張考卷、單題答對率都有清楚數據",
-                    "Text": "透過測驗分析快速看出普遍學生弱點；提供畫筆功能方便老師檢討講解考卷",
+                    "Text": "透過測驗分析快速看出普遍學生弱點；提供畫筆功能方便老師檢討講解考卷。",
                     "TitleImg":"img/resource/7南一雲端出題/6.png"
                 }
             ]
@@ -143,7 +173,7 @@ jQuery(document).ready(function ($) {
                       
                 Add += '        <img class="col-xl-6  col-lg-12 col-md-12 col-12 divYT" src="'+ Setting[i].Items[j].TitleImg +'">'
                     
-    
+                if(TYID){
                 Add += '       <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
     
                 Add += '               <div class="carousel-inner">'
@@ -158,6 +188,7 @@ jQuery(document).ready(function ($) {
                 Add += '                </div>'
     
                 Add += '            </div>'
+            }
                 Add += '        </div>'
     
                 Add += '        <div class="col-xl-12 col-lg-12 col-md-12 col-12 Line">'
