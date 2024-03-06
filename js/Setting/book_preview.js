@@ -15,7 +15,7 @@ var Setting =
         "Left_YT_ID":["0G90JmCCWW0"],
         "Right_Title_img":"img/pic064.png",
         // "Right_YT_ID":["5fy1pQv22PA","_WMgBPoy5Uk","BbwJIs493IE","oLnFGLF2WiY","W_Hajm9C7QU","dfoQonGWxAU","2HmXInsRV1M","KCveAzW6_Rw","Fjk28X2iS-8","6ULbk269iEs","0EzykimyKMY","yMLat7eT_tQ"], //3.2移除Fjk28X2iS-8 低年級-教材搶先看-國語-替換紅框處—教材影音(低)連結-刪除後四支影片
-        "Right_YT_ID":["5fy1pQv22PA","_WMgBPoy5Uk","BbwJIs493IE","oLnFGLF2WiY","W_Hajm9C7QU","dfoQonGWxAU","2HmXInsRV1M","KCveAzW6_Rw","6ULbk269iEs","0EzykimyKMY","yMLat7eT_tQ"],
+        "Right_YT_ID":["5fy1pQv22PA","_WMgBPoy5Uk","BbwJIs493IE","oLnFGLF2WiY","W_Hajm9C7QU","dfoQonGWxAU","2HmXInsRV1M","KCveAzW6_Rw"],
         "TabImg": "img/bookmark011.png",
         "TabImg_Active": "img/bookmark021.png",
         "TabType": "國語",

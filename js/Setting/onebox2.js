@@ -12,7 +12,7 @@ var Setting =
         //         }
         //     ]
         // },
-        // {
+        // {//3.2移除
         //     "Title": "我的光碟盒 打造新版線上書櫃",
         //     "Items":
         //     [
@@ -48,18 +48,7 @@ var Setting =
         //         }
         //     ]
         // },
-        {
-            "Title": "【特色】上架資訊跑馬燈",
-            "Items":
-            [
-                {
-                    "YT_ID": "",
-                    "Title":"▶即時掌握資源訊息",
-                    "Text": "上架資訊、更新消息….跑馬燈通知，讓您掌握第一手南一數位資源訊息",
-                    "TitleImg":"img/resource/6OneBox2.0/NaniBox6.png"
-                }
-            ]
-        },
+  
         {
             "Title": "【NEW】獨家AI助教神助攻",
             "Items":
@@ -94,6 +83,18 @@ var Setting =
                     "Title":"▶安裝電子書步驟更簡便",
                     "Text": "一次完成下載與安裝，載完立即使用五告讚。",
                     "TitleImg":"img/resource/6OneBox2.0/NaniBox5.png"
+                }
+            ]
+        },
+        {
+            "Title": "【特色】上架資訊跑馬燈",
+            "Items":
+            [
+                {
+                    "YT_ID": "",
+                    "Title":"▶即時掌握資源訊息",
+                    "Text": "上架資訊、更新消息….跑馬燈通知，讓您掌握第一手南一數位資源訊息。",
+                    "TitleImg":"img/resource/6OneBox2.0/NaniBox6.png"
                 }
             ]
         },

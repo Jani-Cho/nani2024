@@ -1,5 +1,14 @@
 var Setting =
     [
+        { // 3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶國語班長APP",
+            "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
+            "TabImg": "img/bookmark011.png",
+            "TabImg_Active": "img/bookmark021.png",
+            "TabType": "國語",
+            "Type": "低年級"
+        },
         {
             "YT_ID": "0es4xnVrIOw",
             "Title": "▶注音符號動畫",
@@ -28,6 +37,15 @@ var Setting =
             "Type": "低年級"
         },
 
+        { // 3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶圖片產生器(網頁版)",
+            "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
+            "TabImg": "img/bookmark012.png",
+            "TabImg_Active": "img/bookmark022.png",
+            "TabType": "數學",
+            "Type": "低年級"
+        },
         {
             "YT_ID": "uGUWSZTyRqo",
             "Title": "▶章頭動畫",
@@ -74,6 +92,15 @@ var Setting =
             "Type": "低年級"
         },
 
+        { // 3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶國語班長APP",
+            "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
+            "TabImg": "img/bookmark013.png",
+            "TabImg_Active": "img/bookmark023.png",
+            "TabType": "生活",
+            "Type": "低年級"
+        },
         {
             "YT_ID": "1-xC1P3vn0E",
             "Title": "▶章頭動畫",
@@ -110,7 +137,15 @@ var Setting =
             "TabType": "生活",
             "Type": "低年級"
         },
-
+        { // 3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶國語班長APP",
+            "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
+            "TabImg": "img/bookmark011.png",
+            "TabImg_Active": "img/bookmark021.png",
+            "TabType": "國語",
+            "Type": "中年級"
+        },
         {
             "YT_ID": "SB0ECRbs7A0",
             "Title": "▶寫作動畫",
@@ -139,6 +174,24 @@ var Setting =
             "Type": "中年級"
         },
 
+        { //3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶圖片產生器(網頁版)",
+            "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
+            "TabImg": "img/bookmark012.png",
+            "TabImg_Active": "img/bookmark022.png",
+            "TabType": "數學",
+            "Type": "中年級"
+        } ,
+        { //3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶數學工具-統計圖",
+            "Text": "人性化操作模式，自訂數據最便利！",
+            "TabImg": "img/bookmark012.png",
+            "TabImg_Active": "img/bookmark022.png",
+            "TabType": "數學",
+            "Type": "中年級"
+        } ,
         {
             "YT_ID": "UMZu27MxbGs",
             "Title": "▶章頭動畫",
@@ -187,6 +240,15 @@ var Setting =
             "Type": "中年級"
         },
 
+        { //3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶寫國語班長APP",
+            "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
+            "TabImg": "img/bookmark011.png",
+            "TabImg_Active": "img/bookmark021.png",
+            "TabType": "國語",
+            "Type": "高年級"
+        },
         {
             // "YT_ID": "LChTHm7jkCc",
             "YT_ID": "OvqS5wPqILk",// 3.2修改
@@ -217,6 +279,24 @@ var Setting =
             "Type": "高年級"
         },
 
+        { //3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶圖片產生器(網頁版)",
+            "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
+            "TabImg": "img/bookmark012.png",
+            "TabImg_Active": "img/bookmark022.png",
+            "TabType": "數學",
+            "Type": "高年級"
+        } ,
+        { //3.6新增
+            "YT_ID": "QowZpVt3mqs",
+            "Title": "▶數學工具-統計圖",
+            "Text": "人性化操作模式，自訂數據最便利！",
+            "TabImg": "img/bookmark012.png",
+            "TabImg_Active": "img/bookmark022.png",
+            "TabType": "數學",
+            "Type": "高年級"
+        } ,
         {
             "YT_ID": "GmN5iQY8H_Q",
             "Title": "▶章頭動畫",
@@ -453,25 +533,33 @@ jQuery(document).ready(function ($) {
             Add += '            </div>'
             Add += '        </div>'
             Add += '    </div>'
-            
-            if (TYID_2) { // 3.2新增
-                
-                Add += '    <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
-                Add += '        <div class="carousel-inner">'
-                Add += '            <div class="carousel-item ratio  ratio-16x9 active">';
-                Add += '                <iframe src="https://www.youtube.com/embed/' + TYID_2 + '?enablejsapi=1"';
-                Add += '                    srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom=0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>';
-                Add += '                    <a href=https://www.youtube.com/embed/' + TYID_2 + '?autoplay=1 target=\'_blank\' ><img src=https://img.youtube.com/vi/' + TYID_2 + '/hqdefault.jpg ><span>▶</span></a>"';
-                Add += '                    id="' + TYID_2 + '" title="YouTube video player" frameborder="0" allowfullscreen></iframe>';
-                Add += '            </div>';
-                Add += '        </div>'
-                Add += '    </div>'
-            }
-
             Add += '    <div class="col-xl-6  col-lg-12 col-md-12 col-12 divText">'
             Add += Setting[i].Text
             Add += '    </div>'
+            
+            
             Add += '</div>'
+            if (TYID_2) { // 3.2新增
+                Add += '<div class="row">'
+                Add += ' <div class="row justify-content-center">'
+                Add += '    <div class="col-xl-6 col-lg-12 col-md-12 col-12 divYT">'
+                Add += '        <div class="carousel-inner">'
+                Add += '            <div class="carousel-item ratio  ratio-16x9 active">'
+                Add += '                <iframe src="https://www.youtube.com/embed/' + TYID_2 + '?enablejsapi=1"'
+                Add += '                    srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style>'
+                Add += '                                <a href=https://www.youtube.com/embed/' + TYID_2 + '?autoplay=1 target=\'_blank\' ><img src=https://img.youtube.com/vi/' + TYID_2 + '/hqdefault.jpg ><span>▶</span></a>"'
+                Add += '                    id="' + TYID_2 + '" title="YouTube video player" frameborder="0" allowfullscreen></iframe>'
+                Add += '            </div>'
+                Add += '        </div>'
+                Add += '    </div>'
+                Add += '    <div class="col-xl-6  col-lg-12 col-md-12 col-12 divText">'
+                Add += '    </div>'
+                
+                
+                Add += '</div>'
+                
+            
+            }
 
             Add += ' <div class="col-xl-12 col-lg-12 col-md-12 col-12 Line">'
             Add += '</div>'

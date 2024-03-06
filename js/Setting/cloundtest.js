@@ -1,47 +1,47 @@
 var Setting =
     [
-        {
-            "Title": "新增自動配分機制與字型包下載",
-            "Items":
-            [
-                {
-                    "YT_ID": "wDLpCjJ7azI",
-                    "Title":"▶配分出卷好快速！",
-                    "Text": "出卷不用手動配分，系統可自動依照總答數配分，方便又快速！",
-                    "TitleImg":"img/resource/7南一雲端出題/1.png"
-                },
-                {
-                    "YT_ID": "v0ieg-us-fE",
-                    "Title":"▶字型包首頁即可載",
-                    "Text": "下載字型包即可順利顯示考卷內注音",
-                    "TitleImg":"img/resource/7南一雲端出題/2.png"
-                }
-            ]
-        },
+        // { //3.2移除
+        //     "Title": "新增自動配分機制與字型包下載",
+        //     "Items":
+        //     [
+        //         {
+        //             "YT_ID": "wDLpCjJ7azI",
+        //             "Title":"▶配分出卷好快速！",
+        //             "Text": "出卷不用手動配分，系統可自動依照總答數配分，方便又快速！",
+        //             "TitleImg":"img/resource/7南一雲端出題/1.png"
+        //         },
+        //         {
+        //             "YT_ID": "v0ieg-us-fE",
+        //             "Title":"▶字型包首頁即可載",
+        //             "Text": "下載字型包即可順利顯示考卷內注音",
+        //             "TitleImg":"img/resource/7南一雲端出題/2.png"
+        //         }
+        //     ]
+        // },
         {
             "Title": "【改版】介面全新改版",
             "Items":
             [
                 {
-                    "YT_ID": "wDLpCjJ7azI",
+                    "YT_ID": "",
                     "Title":"▶必知優點1:優化出卷網站視覺",
                     "Text": "全面調整畫面配色，提升使用者閱讀舒適度。",
                     "TitleImg":"img/resource/7南一雲端出題/NaniPaper2.png"
                 },
                 {
-                    "YT_ID": "v0ieg-us-fE",
+                    "YT_ID": "",
                     "Title":"▶必知優點2:首頁分流",
                     "Text": "入口即可選擇您要組新試卷或查找歷史試卷資料。",
                     "TitleImg":"img/resource/7南一雲端出題/NaniPaper1.png"
                 },
                 {
-                    "YT_ID": "v0ieg-us-fE",
+                    "YT_ID": "",
                     "Title":"▶必知優點3:題目完整預覽",
                     "Text": "調整試題預覽形式，圖文並茂讓老師易於檢視試卷。",
                     "TitleImg":"img/resource/7南一雲端出題/NaniPaper3.png"
                 },
                 {
-                    "YT_ID": "v0ieg-us-fE",
+                    "YT_ID": "",
                     "Title":"▶必知優點4:按鈕立體化",
                     "Text": "網站按鈕貼心進化，各載具閱讀皆清晰。",
                     "TitleImg":"img/resource/7南一雲端出題/NaniPaper4.png"

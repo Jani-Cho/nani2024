@@ -36,6 +36,41 @@ var Setting =
         //         }
         //     ]
         // },
+        { // 3.2新增
+            "Title": "【NEW】獨家NaniBook課堂互動",
+            "Items":
+            [
+                {
+                    "YT_ID": "",
+                    "Title":"▶必知優點1：課堂快問快答",
+                    "Text": "電子書快速出題，輕鬆派發自訂試題給全班。",
+                    "TitleImg":"img/resource/5OneBook/答題工具1.png",
+                    "TitleImg2":"img/resource/5OneBook/答題工具2.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"▶必知優點2：分組答題",
+                    "Text": "支援分組回答、答題狀況即時統機。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook3.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook5.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"▶必知優點3：分組觀摩",
+                    "Text": "共享學習成果，提供學生互相觀摩學習的機會。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook6.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook7.png",
+                },
+                {
+                    "YT_ID": "",
+                    "Title":"▶必知優點4：派發筆記",
+                    "Text": "提供學生筆紀、學習單，輕鬆進行課堂演練與複習。",
+                    "TitleImg":"img/resource/5OneBook/NaniBook11.png",
+                    "TitleImg2":"img/resource/5OneBook/NaniBook12.png",
+                }
+
+            ]
+        },
         {
             "Title": "【NEW】業界最強班級紀錄功能",
             "Items":
@@ -95,48 +130,14 @@ var Setting =
 
             ]
         },
-        { // 3.2新增
-            "Title": "【NEW】獨家NaniBook課堂互動",
-            "Items":
-            [
-                {
-                    "YT_ID": "",
-                    "Title":"必知優點1：課堂快問快答",
-                    "Text": "電子書快速出題，輕鬆派發自訂試題給全班。",
-                    "TitleImg":"img/resource/5OneBook/答題工具1.png",
-                    "TitleImg2":"img/resource/5OneBook/答題工具2.png",
-                },
-                {
-                    "YT_ID": "",
-                    "Title":"必知優點2：分組答題",
-                    "Text": "支援分組回答、答題狀況即時統機。",
-                    "TitleImg":"img/resource/5OneBook/NaniBook3.png",
-                    "TitleImg2":"img/resource/5OneBook/NaniBook5.png",
-                },
-                {
-                    "YT_ID": "",
-                    "Title":"必知優點3：分組觀摩",
-                    "Text": "共享學習成果，提供學生互相觀摩學習的機會。",
-                    "TitleImg":"img/resource/5OneBook/NaniBook6.png",
-                    "TitleImg2":"img/resource/5OneBook/NaniBook7.png",
-                },
-                {
-                    "YT_ID": "",
-                    "Title":"必知優點4：派發筆記",
-                    "Text": "提供學生筆紀、學習單，輕鬆進行課堂演練與複習。",
-                    "TitleImg":"img/resource/5OneBook/NaniBook11.png",
-                    "TitleImg2":"img/resource/5OneBook/NaniBook12.png",
-                }
 
-            ]
-        },
         { // 3.2新增
             "Title": "【改版】電子書畫筆功能貼心升級",
             "Items":
             [
                 {
                     "YT_ID": "mWPDXm8U68M",
-                    "Title":"優化畫筆操作，16色新登場",
+                    "Title":"▶優化畫筆操作，16色新登場",
                     "Text": "點一下畫筆即可進行書寫，再點一下呼叫畫筆面板。",
                     "TitleImg":"img/resource/5OneBook/NaniBook8.png",
                 }
@@ -149,7 +150,7 @@ var Setting =
             [
                 {
                     "YT_ID": "",
-                    "Title":"新增雙按鍵:回復、取消回復",
+                    "Title":"▶新增雙按鍵:回復、取消回復",
                     "Text": "一秒救回上一筆動作，包含畫記、便利貼、圖片皆可一鍵復原。",
                     "TitleImg":"img/resource/5OneBook/NaniBook9.png",
                     "TitleImg2":"img/resource/5OneBook/NaniBook10.png",

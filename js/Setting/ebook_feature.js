@@ -260,9 +260,9 @@ var Setting =
         },
         {
             "YT_ID": "hZoRHEgArzg",
-            "Title": "精選補充影片",
+            "Title": "▶精選補充影片",
             "Text": "精選Youtube影片，客製化知識點分段，重點輕鬆看，備課無負擔",
-            // "TitleImg":"img/resource/3電子書特色功能/5社會/社會wordwall.png",
+            "TitleImg":"img/resource/3電子書特色功能/5社會/精選補充影片.png",
             "TabImg": null,
             "TabImg_Active": null,
             "TabType": null,
