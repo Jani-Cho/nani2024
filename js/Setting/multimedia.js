@@ -164,15 +164,15 @@ var Setting =
             "TabType": "國語",
             "Type": "中年級"
         },
-        {
-            "YT_ID": "Ub8RUpmCVS4",
-            "Title": "▶互動遊戲",
-            "Text": "部件造字、形音義小遊戲，南一獨家自製語文遊戲等你來挑戰！",
-            "TabImg": "img/bookmark011.png",
-            "TabImg_Active": "img/bookmark021.png",
-            "TabType": "國語",
-            "Type": "中年級"
-        },
+        // { // 3.11移除
+        //     "YT_ID": "Ub8RUpmCVS4",
+        //     "Title": "▶互動遊戲",
+        //     "Text": "部件造字、形音義小遊戲，南一獨家自製語文遊戲等你來挑戰！",
+        //     "TabImg": "img/bookmark011.png",
+        //     "TabImg_Active": "img/bookmark021.png",
+        //     "TabType": "國語",
+        //     "Type": "中年級"
+        // },
 
         { //3.6新增
             "YT_ID": "QowZpVt3mqs",

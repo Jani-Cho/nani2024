@@ -2,41 +2,41 @@ var Setting =
 [
     {
         "Img":"img/resource/4電子書體驗版/1低年級/低年級特色.png",
-        "Url":"https://reader.oneclass.com.tw/ea814e0e1b92449b",
+        "Url":"https://reader.oneclass.com.tw/71c547e9f5e8bb6a",
         "TextImg":"img/pic071.png",
         "Type":"低年級"
     },
 
     {
         "Img":"img/resource/4電子書體驗版/2中年級/中年級特色.png",
-        "Url":"https://reader.oneclass.com.tw/ec88cb987a6137f3",
+        "Url":"https://reader.oneclass.com.tw/71c547e9f5e8bb6a",
         "TextImg":"img/pic072.png",
         "Type":"中年級"
     },
 
     {
         "Img":"img/resource/4電子書體驗版/3高年級/國語.png",
-        "Url":"https://reader.oneclass.com.tw/0442ca1c25987960",
+        "Url":"https://reader.oneclass.com.tw/01e2e412000f9b17",
         "TextImg":"img/pic051.png",
         "Type":"高年級"
     },
     {
         "Img":"img/resource/4電子書體驗版/3高年級/數學.png",
-        "Url":"https://reader.oneclass.com.tw/43f654e91671b189",
+        "Url":"https://reader.oneclass.com.tw/867ee7937fadda64",
         "TextImg":"img/pic052.png",
         "Type":"高年級"
     },
 	
     {
         "Img":"img/resource/4電子書體驗版/4自然/自然.png",
-        "Url":"https://reader.oneclass.com.tw/4b2b9e32673d4b77",
+        "Url":"https://reader.oneclass.com.tw/0d412d2155c9cbce",
         "TextImg":"img/pic054.png",
         "Type":"自然"
     },
 	
     {
         "Img":"img/resource/4電子書體驗版/5社會/社會.png",
-        "Url":"https://reader.oneclass.com.tw/ec88cb987a6137f3",
+        "Url":"https://reader.oneclass.com.tw/872204202632c707",
         "TextImg":"img/pic055.png",
         "Type":"社會"
     },
