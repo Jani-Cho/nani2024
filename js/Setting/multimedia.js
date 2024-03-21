@@ -1,7 +1,7 @@
 var Setting =
     [
-        { // 3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { // 3.20新增
+            "YT_ID": "Lr02dZdVZz0",
             "Title": "▶國語班長APP",
             "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
             "TabImg": "img/bookmark011.png",
@@ -37,8 +37,8 @@ var Setting =
             "Type": "低年級"
         },
 
-        { // 3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { // 3.20新增
+            "YT_ID": "QGCr4sXQXk0",
             "Title": "▶圖片產生器(網頁版)",
             "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
             "TabImg": "img/bookmark012.png",
@@ -137,8 +137,8 @@ var Setting =
             "TabType": "生活",
             "Type": "低年級"
         },
-        { // 3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { // 3.20新增
+            "YT_ID": "Lr02dZdVZz0",
             "Title": "▶國語班長APP",
             "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
             "TabImg": "img/bookmark011.png",
@@ -174,8 +174,8 @@ var Setting =
         //     "Type": "中年級"
         // },
 
-        { //3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { //3.20新增
+            "YT_ID": "QGCr4sXQXk0",
             "Title": "▶圖片產生器(網頁版)",
             "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
             "TabImg": "img/bookmark012.png",
@@ -183,8 +183,8 @@ var Setting =
             "TabType": "數學",
             "Type": "中年級"
         } ,
-        { //3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { //3.20新增
+            "YT_ID": "cMI3KiOlF5M",
             "Title": "▶數學工具-統計圖",
             "Text": "人性化操作模式，自訂數據最便利！",
             "TabImg": "img/bookmark012.png",
@@ -240,8 +240,8 @@ var Setting =
             "Type": "中年級"
         },
 
-        { //3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { //3.20新增
+            "YT_ID": "Lr02dZdVZz0",
             "Title": "▶寫國語班長APP",
             "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
             "TabImg": "img/bookmark011.png",
@@ -251,7 +251,7 @@ var Setting =
         },
         {
             // "YT_ID": "LChTHm7jkCc",
-            "YT_ID": "OvqS5wPqILk",// 3.2修改
+            "YT_ID": "2abn54B2avA",// 3.20修改
             "Title": "▶寫作動畫",
             "Text": "寫作如何讀懂題目、挑選素材、展開聯想？透過動畫有效加強寫作力！",
             "TabImg": "img/bookmark011.png",
@@ -279,8 +279,8 @@ var Setting =
             "Type": "高年級"
         },
 
-        { //3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { //3.20新增
+            "YT_ID": "QGCr4sXQXk0",
             "Title": "▶圖片產生器(網頁版)",
             "Text": "滿足教學情境的自製素材，豐富類別輕鬆匯出圖片！",
             "TabImg": "img/bookmark012.png",
@@ -288,8 +288,8 @@ var Setting =
             "TabType": "數學",
             "Type": "高年級"
         } ,
-        { //3.6新增
-            "YT_ID": "QowZpVt3mqs",
+        { //3.20新增
+            "YT_ID": "cMI3KiOlF5M",
             "Title": "▶數學工具-統計圖",
             "Text": "人性化操作模式，自訂數據最便利！",
             "TabImg": "img/bookmark012.png",
