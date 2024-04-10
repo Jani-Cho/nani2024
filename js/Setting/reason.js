@@ -566,7 +566,7 @@ var Setting =
                 },
                 {
                     "Text": "②題型融入生活情境，不管是生活公約、時事議題還是表格閱讀都有，題材多元提升閱讀力！",
-                    "TitleImg":"img/resource/2必選理由/2中年級/NE1A31-E323.jpg"
+                    "TitleImg":"img/resource/2必選理由/2中年級/NE1A31-E33.jpg"
                 }
             ]
         },
@@ -1109,7 +1109,7 @@ var Setting =
             [
                 {
                     "Text": "①我們的身體構造——眼睛，也有像透鏡一樣的構造，幫助我們在有光線時可以看見物體。",
-                    "TitleImg":"img/resource/2必選理由/4自然/NE1D51-E3-1-P1.jpg"
+                    "TitleImg":"img/resource/2必選理由/4自然/NE1D51-E3-1-P12.jpg"
                 },
                 {
                     "Text": "②透過常見的植物認識酸鹼與生活的關係。",
@@ -1272,7 +1272,7 @@ var Setting =
             "Items":
             [
                 {
-                    "Text": "內容對應課本範圍，題型以讀圖題、配合題、勾選題為主， 分量適中，讓學生好作答，老師批改更輕鬆 。<br>①生活應用題型：結合生活經驗的應用，培養圖像理解的能力。",
+                    "Text": "內容對應課本範圍，題型以讀圖題、配合題、勾選題為主， 分量適中，讓學生好作答，老師批改更輕鬆 。",
                     "TitleImg":"img/resource/2必選理由/5社會/NE1E31-E23.jpg"
                 }
             ]
@@ -1286,24 +1286,8 @@ var Setting =
             "Items":
             [
                 {
-                    "Text": "①內容減量，分量平均，符合備課節奏，學生學習更有效率。",
-                    "TitleImg":"img/resource/2必選理由/5社會/NE1E31-E22.jpg.jpg"
-                },
-                {
-                    "Text": "②教學時間更充裕，探究活動實作更彈性。",
-                    "TitleImg":"img/resource/2必選理由/5社會/社會21.png"
-                },
-                {
-                    "Text": "③以合適的核心主題，統整地理、歷史、公民與社會3 學科。",
-                    "TitleImg":"img/resource/2必選理由/5社會/社會22.png"
-                },
-                {
-                    "Text": "➃延續教學慣性，從地理空間主題進入課程，建立基礎觀念。",
-                    "TitleImg":"img/resource/2必選理由/5社會/社會23.png"
-                },
-                {
-                    "Text": "➄單元依時序編排，學習歷史脈絡更清晰。（史前1-3，大航海4-2、4-3）",
-                    "TitleImg":"img/resource/2必選理由/5社會/社會23.png"
+                    "Text": "①內容減量，分量平均，符合備課節奏，學生學習更有效率。<br>②教學時間更充裕，探究活動實作更彈性。<br>③以合適的核心主題，統整地理、歷史、公民與社會3 學科。<br>➃延續教學慣性，從地理空間主題進入課程，建立基礎觀念。<br>➄單元依時序編排，學習歷史脈絡更清晰。（史前1-3，大航海4-2、4-3）",
+                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-2.jpg"
                 }
             ]
         },
@@ -1316,12 +1300,12 @@ var Setting =
             "Items":
             [
                 {
-                    "Text": "①漫畫風格設計：吸引學生翻閱，培養自學能力。<br>②情境貼近生活經驗：漫畫情境與實際生活連結，讓學習更有感！<br>搭配全新單元引導動畫：課前引導學習主題，讓學習更有趣更深刻！<br>➃學習指南：完整掌握單元學習重點，達到課前預習的效果！",
-                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-E22.jpg"
+                    "Text": "①漫畫風格設計：吸引學生翻閱，培養自學能力。<br>②情境貼近生活經驗：漫畫情境與實際生活連結，讓學習更有感！",
+                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-22.jpg"
                 },
                 {
-                    "Text": "②情境貼近生活經驗：漫畫情境與實際生活連結，讓學習更有感！",
-                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-E22.jpg"
+                    "Text": "③搭配全新單元引導動畫：課前引導學習主題，讓學習更有趣更深刻！<br>➃學習指南：完整掌握單元學習重點，達到課前預習的效果！",
+                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-23.jpg"
                 }
             ]
         },
@@ -1339,7 +1323,7 @@ var Setting =
                 },
                 {
                     "Text": "②知識家：補充小知識輔助理解，新名詞套色提醒，搭配動畫學習更清晰。",
-                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-2-1-P35.jpg"
+                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-2-2-P35.jpg"
                 },
                 {
                     "Text": "③歷史人物小故事：歷史人物介紹不納入課文，減少學習負擔。",
@@ -1365,7 +1349,7 @@ var Setting =
                 },
                 {
                     "Text": "②第2 步【形成概念】接著，在找答案的過程中逐漸理解，形成初步的概念。",
-                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-2-1-P12.jpg"
+                    "TitleImg":"img/resource/2必選理由/5社會/NE1E51-2-1-P12(有紅框).jpg"
                 },
                 {
                     "Text": "③第3 步【知識統整】有了概念，再將知識點有系統的統整歸納，讓學習更聚焦。",
@@ -1464,9 +1448,9 @@ jQuery(document).ready(function ($) {
             Add += '    aria-controls="collapse'+ stri +'" index="'+ stri +'" aria-expanded="false">'
             Add += '    <div class="row justify-content-center" style="z-index: 1;">'
             Add += '        <div class="col-lg-12 Fold Fold2">'
-            Add += '            <div class="row align-items-center">'
-            Add += '                <div class="col-xl-11 col-md-11 col-sm-10 col-10 FoldTexts">'
-            Add +=                   '<span style="margin-left:3vmin;">'+ Setting[i].Title +'</span>'
+            Add += '            <div class="row align-items-center" style="padding-left: 20px">'
+            Add += '                <div class="col-xl-11 col-md-11 col-sm-10 col-10 FoldTextsWrap">'
+            Add +=                   '<span>'+ Setting[i].Title +'</span>'
             Add += '                </div>'
             Add += '                <div class="col-lg-1 col-md-1 col-sm-2 col-2" style="text-align: center;">'
             Add += '                    <button class="btn Foldbtn Foldbtn'+ stri +'" type="button" data-bs-toggle="collapse"'

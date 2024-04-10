@@ -2,7 +2,8 @@ var Setting =
 [
     {
         "Left_Title_img":"img/pic061.png",
-        "Left_YT_ID":["JIL9FdatxsA"],
+        // "Left_YT_ID":["JIL9FdatxsA"], // 4.5 修改
+        "Left_YT_ID":["GdyVRx9P_y0"],
         "Right_Title_img":"img/pic062.png",
         "Right_YT_ID":["4-BtQSyaOd0"],
         "TabImg": "img/bookmark011.png",
@@ -12,7 +13,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic063.png",
-        "Left_YT_ID":["0G90JmCCWW0"],
+        // "Left_YT_ID":["0G90JmCCWW0"], // 4.5 修改
+        "Left_YT_ID":["n2NlQ8ivSyE"],
         "Right_Title_img":"img/pic064.png",
         // "Right_YT_ID":["5fy1pQv22PA","_WMgBPoy5Uk","BbwJIs493IE","oLnFGLF2WiY","W_Hajm9C7QU","dfoQonGWxAU","2HmXInsRV1M","KCveAzW6_Rw","Fjk28X2iS-8","6ULbk269iEs","0EzykimyKMY","yMLat7eT_tQ"], //3.2移除Fjk28X2iS-8 低年級-教材搶先看-國語-替換紅框處—教材影音(低)連結-刪除後四支影片
         "Right_YT_ID":["5fy1pQv22PA","_WMgBPoy5Uk","BbwJIs493IE","oLnFGLF2WiY","W_Hajm9C7QU","dfoQonGWxAU","2HmXInsRV1M","KCveAzW6_Rw"],
@@ -23,7 +25,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["d68cRN4VnYI"],
+        // "Left_YT_ID":["d68cRN4VnYI"], // 4.5 修改
+        "Left_YT_ID":["U0u_m_-Ie1A"],
         "Right_Title_img":"img/pic02.png",
         "Right_YT_ID":["jvIL8K-Pkpk","L0CTHe4uJyQ","kTSnHLHAyCw","hWDPdNzGzTs","GM7Tb_8Dalw","DUQkHe5OCP8"],
         "TabImg": "img/bookmark012.png",
@@ -33,7 +36,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["oFSSvY5MIoI"],
+        // "Left_YT_ID":["oFSSvY5MIoI"], // 4.5 修改
+        "Left_YT_ID":["MZ2AwxGb9GM"],
         "Right_Title_img":"img/pic02.png",
         // "Right_YT_ID":["svoOFhrvSBQ","D7545N3C66E","bMJY1MePF00","KXHXq8HAiao","A6vdfXIh7io"], //3.2移除bMJY1MePF00 低年段-教材搶先看-生活-刪除紅框處-教材影音第三支我愛泡泡
         "Right_YT_ID":["svoOFhrvSBQ","D7545N3C66E","KXHXq8HAiao","A6vdfXIh7io"],
@@ -44,7 +48,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["LiYLHjPY7_8"],
+        // "Left_YT_ID":["LiYLHjPY7_8"], // 4.5 修改
+        "Left_YT_ID":["eyO4ezZScow"],
         "Right_Title_img":"img/pic02.png",
         "Right_YT_ID":["d8LqPR6d_Gk","V-NGvivq3Nw","HG8hQgTKAgU","z7J-tntqe3A","psbQLaW91no","th8c-EJhaBI","vKimt-htfdo","ISApHnhAs_o"],
         "TabImg": "img/bookmark011.png",
@@ -54,7 +59,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["ji94WdpL3BE"],
+        // "Left_YT_ID":["ji94WdpL3BE"], // 4.5 修改
+        "Left_YT_ID":["DxL9nrQij9M"], 
         "Right_Title_img":"img/pic02.png",
         "Right_YT_ID":["vgP-OUzz0Mc","z4yK1lzTBaA","g_xYMVChVJ4","_65xTU7MvHI","Buw3CFvEFSo","h_pkfyXuXv0"],
         "TabImg": "img/bookmark012.png",
@@ -64,7 +70,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["mvH3SW8c_DA"],
+        // "Left_YT_ID":["mvH3SW8c_DA"],// 4.5 修改
+        "Left_YT_ID":["M85eNs-Z7u0"],
         "Right_Title_img":"img/pic02.png",
         "Right_YT_ID":["o4EVF3KXCqw","NSTli0zmFls","LIu098hmjE8","2uJ6M8ORxhY","lqaBw3t6y74","nmCfvoN8aXs","4HmQFUSWKB4"],
         "TabImg": "img/bookmark011.png",
@@ -74,7 +81,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic01.png",
-        "Left_YT_ID":["YkTQTPGJRTY"],
+        // "Left_YT_ID":["YkTQTPGJRTY"],// 4.5 修改
+        "Left_YT_ID":["TI7fYho041g"],
         "Right_Title_img":"img/pic02.png",
         "Right_YT_ID":["Rqinl58iLKQ","WWHP6qfP-JU","XqZMKyzIBL0"],
         "TabImg": "img/bookmark012.png",
@@ -84,7 +92,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic065.png",
-        "Left_YT_ID":["nMyUXT88cJM"],
+        // "Left_YT_ID":["nMyUXT88cJM"],// 4.5 修改
+        "Left_YT_ID":["lyu7I6DpK3M"],
         "Right_Title_img":"img/pic066.png",
         // "Right_YT_ID":["HNsJ5g4tNXw","cm9sRPZSQAE","zg54OfQ7WkI","kHkATKytO_w","PuIYPF_DVig","1GSSgGpFVDk"], // 3.2移除 中年級-教材搶先看-自然-刪除第五支搖搖冰影片
         "Right_YT_ID":["HNsJ5g4tNXw","cm9sRPZSQAE","zg54OfQ7WkI","kHkATKytO_w","6ABf65toc3w","1GSSgGpFVDk"], 
@@ -95,7 +104,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic067.png",
-        "Left_YT_ID":["M6YEpUhjrfI"],
+        // "Left_YT_ID":["M6YEpUhjrfI"],// 4.5 修改
+        "Left_YT_ID":["2cL05hCr4A4"],
         "Right_Title_img":"img/pic068.png",
         // "Right_YT_ID":["jNx_Di_Dixs","2GJbDiXM0cE","Qsp1-rdm88M"], // 3.2移除 高年級－教材搶先看－自然-刪除第三支水受熱後的流動情形影片
         "Right_YT_ID":["jNx_Di_Dixs","2GJbDiXM0cE","dzgwsrqtRzk"],
@@ -106,7 +116,8 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic065.png",
-        "Left_YT_ID":["vrxUMAdWGWI"],
+        // "Left_YT_ID":["vrxUMAdWGWI"],// 4.5 修改
+        "Left_YT_ID":["rQO50WLj_RY"],
         "Right_Title_img":"img/pic066.png",
         // "Right_YT_ID":["ftDempnh7Fo","vlaCQzWzbM8","T2n1gDUE9Fk","E-MR0RrPwFI"], // 3.2移除 社會-教材搶先看-社會-教材影音(中)刪除後2支引導動畫
         "Right_YT_ID":["ftDempnh7Fo","vlaCQzWzbM8"],
@@ -116,9 +127,10 @@ var Setting =
     },
     {
         "Left_Title_img":"img/pic067.png",
-        "Left_YT_ID":["5gJrUJAEnJU"],
-        "Right_Title_img": null,
-        "Right_YT_ID": null,
+        // "Left_YT_ID":["5gJrUJAEnJU"],// 4.5 修改
+        "Left_YT_ID":["6HFIRopjLxw"],
+        "Right_Title_img": "img/pic068.png",
+        "Right_YT_ID": ['flt6QqVVj_A'], // 4.5 新增
         "TabImg": null,
         "TabImg_Active": null,
         "TabType": null,
