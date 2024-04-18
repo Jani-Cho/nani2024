@@ -117,7 +117,7 @@ var Setting =
     {
         "Left_Title_img":"img/pic065.png",
         // "Left_YT_ID":["vrxUMAdWGWI"],// 4.5 修改
-        "Left_YT_ID":["rQO50WLj_RY"],
+        "Left_YT_ID":["6HFIRopjLxw"],
         "Right_Title_img":"img/pic066.png",
         // "Right_YT_ID":["ftDempnh7Fo","vlaCQzWzbM8","T2n1gDUE9Fk","E-MR0RrPwFI"], // 3.2移除 社會-教材搶先看-社會-教材影音(中)刪除後2支引導動畫
         "Right_YT_ID":["ftDempnh7Fo","vlaCQzWzbM8"],
@@ -128,7 +128,7 @@ var Setting =
     {
         "Left_Title_img":"img/pic067.png",
         // "Left_YT_ID":["5gJrUJAEnJU"],// 4.5 修改
-        "Left_YT_ID":["6HFIRopjLxw"],
+        "Left_YT_ID":["rQO50WLj_RY"],
         "Right_Title_img": "img/pic068.png",
         "Right_YT_ID": ['flt6QqVVj_A'], // 4.5 新增
         "TabImg": null,
