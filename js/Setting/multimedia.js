@@ -92,15 +92,6 @@ var Setting =
             "Type": "低年級"
         },
 
-        { // 3.6新增
-            "YT_ID": "QowZpVt3mqs",
-            "Title": "▶國語班長APP",
-            "Text": "滿足聽說讀寫練習的自學APP，AI批改成績，一站式完成練習",
-            "TabImg": "img/bookmark013.png",
-            "TabImg_Active": "img/bookmark023.png",
-            "TabType": "生活",
-            "Type": "低年級"
-        },
         {
             "YT_ID": "1-xC1P3vn0E",
             "Title": "▶章頭動畫",
