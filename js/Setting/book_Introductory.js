@@ -72,33 +72,33 @@ var Setting =
   },
   {
       "Img":"img/resource/1教材簡介本配套本/6綜合健體/健體1.png",
-      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/%E5%9C%8B%E5%B0%8F%E5%81%A5%E9%AB%94%E4%BD%8E%E5%B9%B4%E7%B4%9A%E6%96%87%E5%AE%A3.pdf",
+      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/113%E5%81%A5%E9%AB%94%E4%BD%8E%E5%B9%B4%E7%B4%9A%E7%B0%A1%E4%BB%8B%E6%9C%AC.pdf",
       "TextImg":"img/pic03.png",
       "Type":"綜合健體"
   },
   {
       "Img":"img/resource/1教材簡介本配套本/6綜合健體/健體3.png",
-      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/%E5%9C%8B%E5%B0%8F%E5%81%A5%E9%AB%94%E4%B8%AD%E5%B9%B4%E7%B4%9A%E6%96%87%E5%AE%A3.pdf",
+      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/113%E5%81%A5%E9%AB%94%E4%B8%AD%E5%B9%B4%E7%B4%9A%E7%B0%A1%E4%BB%8B%E6%9C%AC.pdf",
       "TextImg":"img/pic03.png",
       "Type":"綜合健體"
   }
   ,
   {
       "Img":"img/resource/1教材簡介本配套本/6綜合健體/健體5.png",
-      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/%E5%9C%8B%E5%B0%8F%E5%81%A5%E9%AB%94%E9%AB%98%E5%B9%B4%E7%B4%9A%E6%96%87%E5%AE%A3.pdf",
+      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/113%E5%81%A5%E9%AB%94%E9%AB%98%E5%B9%B4%E7%B4%9A%E7%B0%A1%E4%BB%8B%E6%9C%AC.pdf",
       "TextImg":"img/pic03.png",
       "Type":"綜合健體"
   },
   {
       "Img":"img/resource/1教材簡介本配套本/6綜合健體/綜合3.png",
-      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/%E5%9C%8B%E5%B0%8F%E7%B6%9C%E5%90%88%E4%B8%AD%E5%B9%B4%E7%B4%9A%E6%96%87%E5%AE%A3.pdf",
+      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/113%E7%B6%9C%E5%90%88%E4%B8%AD%E5%B9%B4%E7%B4%9A%E7%B0%A1%E4%BB%8B%E6%9C%AC.pdf",
       "TextImg":"img/pic03.png",
       "Type":"綜合健體"
   }
   ,
   {
       "Img":"img/resource/1教材簡介本配套本/6綜合健體/綜合5.png",
-      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/%E5%9C%8B%E5%B0%8F%E7%B6%9C%E5%90%88%E9%AB%98%E5%B9%B4%E7%B4%9A%E6%96%87%E5%AE%A3.pdf",
+      "Url":"https://storage.googleapis.com/onebook-dev.appspot.com/data/3d90a3de6eded0d8/%E5%9C%8B%E5%B0%8F/113%E7%B6%9C%E5%90%88%E9%AB%98%E5%B9%B4%E7%B4%9A%E7%B0%A1%E4%BB%8B%E6%9C%AC.pdf",
       "TextImg":"img/pic03.png",
       "Type":"綜合健體"
   }
