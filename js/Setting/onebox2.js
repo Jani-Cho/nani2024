@@ -57,8 +57,8 @@ var Setting =
                     "YT_ID": "",
                     "Title":"▶自動偵測教學進度",
                     "Text": "NaniBox3.0 AI助教，貼心推播適合您的教學資原。",
-                    "TitleImg":"img/resource/6OneBox2.0/NaniBox3.png",
-                    "TitleImg2":"img/resource/6OneBox2.0/NaniBox4.png",
+                    "TitleImg":"img/resource/6OneBox2.0/NaniBox3.0_1.png",
+                    "TitleImg2":"img/resource/6OneBox2.0/NaniBox3.0_2.png",
                 }
             ]
         },
@@ -70,7 +70,7 @@ var Setting =
                     "YT_ID": "",
                     "Title":"▶資源全展開尋找資源不迷路",
                     "Text": "符合教師使用習慣，查找資源便利又方便。",
-                    "TitleImg":"img/resource/6OneBox2.0/NaniBox1.png"
+                    "TitleImg":"img/resource/6OneBox2.0/NaniBox3.0_3.png"
                 }
             ]
         },
@@ -82,7 +82,7 @@ var Setting =
                     "YT_ID": "",
                     "Title":"▶安裝電子書步驟更簡便",
                     "Text": "一次完成下載與安裝，載完立即使用五告讚。",
-                    "TitleImg":"img/resource/6OneBox2.0/NaniBox5.png"
+                    "TitleImg":"img/resource/6OneBox2.0/NaniBox3.0_4.png"
                 }
             ]
         },
@@ -94,7 +94,7 @@ var Setting =
                     "YT_ID": "",
                     "Title":"▶即時掌握資源訊息",
                     "Text": "上架資訊、更新消息….跑馬燈通知，讓您掌握第一手南一數位資源訊息。",
-                    "TitleImg":"img/resource/6OneBox2.0/NaniBox6.png"
+                    "TitleImg":"img/resource/6OneBox2.0/NaniBox3.0_5.png"
                 }
             ]
         },

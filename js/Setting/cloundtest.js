@@ -26,13 +26,13 @@ var Setting =
                     "YT_ID": "",
                     "Title":"▶必知優點1:優化出卷網站視覺",
                     "Text": "全面調整畫面配色，提升使用者閱讀舒適度。",
-                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper2.png"
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper_1.png"
                 },
                 {
                     "YT_ID": "",
                     "Title":"▶必知優點2:首頁分流",
                     "Text": "入口即可選擇您要組新試卷或查找歷史試卷資料。",
-                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper1.png"
+                    "TitleImg":"img/resource/7南一雲端出題/NaniPaper_2.png"
                 },
                 {
                     "YT_ID": "",
