@@ -95,7 +95,7 @@ var Setting =
             "YT_ID": "XtZh7Iv-e3E",
             "Title": "▶Wordwall",
             "Text": "最多元的題型與遊戲模組，透過遊戲輕鬆學習語詞和成語！",
-            "TitleImg":"img/resource/3電子書特色功能/2中年級/國語/wordwall.png",
+            "TitleImg":"img/resource/3電子書特色功能/2中年級/國語/Wordwall.png",
             "TabImg": "img/bookmark011.png",
             "TabImg_Active": "img/bookmark021.png",
             "TabType": "國語",
