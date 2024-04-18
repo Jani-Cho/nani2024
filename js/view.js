@@ -181,7 +181,7 @@ jQuery(document).ready(function ($) {
 			case "綜合健體":
 				Hindex = 6;
 				break;	
-			case "NaniBook":
+			case "數位":
 				Hindex = 7;
 				break;	
 			default:
